@@ -305,6 +305,8 @@ attribute vendor_hal_minkipc;
 attribute vendor_hal_minkipc_client;
 attribute vendor_hal_minkipc_server;
 
+attribute vendor_service;
+
 #custom hal server domain attribute
 attribute system_halserverdomain;
 
